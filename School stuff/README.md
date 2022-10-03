@@ -1,3 +1,5 @@
-## My_Scripts
 
-My Github account is divided up by three files namely MATLAB_files and Python_files and Machine Learning respectively. Those files contain the scripts ,what i have done so far, Python files and Matlab files are related to my last project which is about Methodology and qualitative study on the elongation of the foam, while the MAchine Learning file is totally for hobby
+This sub folder contains my works during my master degree program at Tampere University.
+- Bird sound detection was made as a Kaggle competition. The dataset consists of 10 second short audios. sounds consist of 10 different bird species. The aim here is to classify which bird sound contains the audios given in the test set. I Hold the third place on the \[ [leaderboard](https://www.kaggle.com/competitions/bird-audio-detection/leaderboard) ]  
+
+
