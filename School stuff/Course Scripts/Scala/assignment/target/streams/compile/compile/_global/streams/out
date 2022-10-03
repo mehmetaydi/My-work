@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\phmeay\Desktop\dip\assignment\src\main\scala\assignment21\DIP21TestSuite.scala:4:12: object junit is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.junit.runner.RunWith[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\phmeay\Desktop\dip\assignment\src\main\scala\assignment21\DIP21TestSuite.scala:9:2: not found: type RunWith[0m
+[0m[[0m[31merror[0m] [0m[0m@RunWith(classOf[JUnitRunner])[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

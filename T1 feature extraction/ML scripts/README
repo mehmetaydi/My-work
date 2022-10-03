@@ -1,0 +1,6 @@
+This folder contains machine learning related scripts and files.
+
+MLP.py is a tuned parameter multilayer perceptron, which can be executed for datasets located in data/ folder. 
+In addition, it contains scaling and optimizer options.
+
+Scores for different training-testing sessions are located in the fEX_scorebook.xlsx file. 

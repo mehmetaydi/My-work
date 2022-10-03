@@ -1,0 +1,1 @@
+SELECT pname , min(price) as price, bname FROM product, brand;
