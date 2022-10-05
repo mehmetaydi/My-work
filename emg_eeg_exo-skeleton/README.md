@@ -6,6 +6,9 @@ involved in movement preparation. This [paper](https://www.sciencedirect.com/sci
 
 ![1st walk Right legs](https://user-images.githubusercontent.com/101706254/193763420-f02b98de-fe57-4b63-aa97-18d7bfd85497.jpg)
 
+![DigitMed_2018_4_2_84_239672_f1](https://user-images.githubusercontent.com/101706254/194016810-257726a4-7c8a-4421-a739-a26d23ca00e4.jpg)
+
+
 ![All segments of the C1 ](https://user-images.githubusercontent.com/101706254/193764098-dd7d2820-d0fc-46be-a5d0-a7c8f708c74a.png)
 
 ![C1 signal with filter](https://user-images.githubusercontent.com/101706254/193764122-9a8e4c38-3b57-4f1b-b97a-04c1b1f9cc68.png)
