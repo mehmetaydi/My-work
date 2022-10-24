@@ -14,3 +14,4 @@ Image to Image translation with Generative Adversarial Networks (GAN).
 ![image](https://user-images.githubusercontent.com/101706254/196416659-f71b453a-0cab-4e9b-9f29-853da5b27972.png)
 
 dataset i used for this project is available in [Visidon Oy](https://www.visidon.fi/) career [webpage](https://www.visidon.fi/careers/). 
+ Take the first 200 images as test and the rest as train dataset.
